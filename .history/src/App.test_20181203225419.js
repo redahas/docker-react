@@ -22,8 +22,4 @@ it('renddwaders without crashing', () => {
 
 it('fake test', () => {
   expect(true).toBeTruthy();
-});
-
-it('fake dwadaw test', () => {
-  expect(true).toBeTruthy();
-});
+})

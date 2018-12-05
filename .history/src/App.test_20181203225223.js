@@ -19,11 +19,3 @@ it('renddwaders without crashing', () => {
   ReactDOM.render(<App />, div);
   ReactDOM.unmountComponentAtNode(div);
 });
-
-it('fake test', () => {
-  expect(true).toBeTruthy();
-});
-
-it('fake dwadaw test', () => {
-  expect(true).toBeTruthy();
-});

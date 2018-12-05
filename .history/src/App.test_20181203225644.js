@@ -24,6 +24,6 @@ it('fake test', () => {
   expect(true).toBeTruthy();
 });
 
-it('fake dwadaw test', () => {
+it('fake test', () => {
   expect(true).toBeTruthy();
 });

@@ -8,22 +8,14 @@ it('renders without crashing', () => {
   ReactDOM.unmountComponentAtNode(div);
 });
 
-it('renders witdwadhout crashing', () => {
+it('renders without crashing', () => {
   const div = document.createElement('div');
   ReactDOM.render(<App />, div);
   ReactDOM.unmountComponentAtNode(div);
 });
 
-it('renddwaders without crashing', () => {
+it('renders without crashing', () => {
   const div = document.createElement('div');
   ReactDOM.render(<App />, div);
   ReactDOM.unmountComponentAtNode(div);
-});
-
-it('fake test', () => {
-  expect(true).toBeTruthy();
-});
-
-it('fake dwadaw test', () => {
-  expect(true).toBeTruthy();
 });
